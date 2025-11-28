@@ -7,13 +7,13 @@ Applications that allow easy installation of desktop linux on kindle
 (ALT EDITION EXCLUSIVE) Install multiple of the same distro simultaenously
 
 # QuickAlpines
-[QuickAlpine-OG](https://github.com/GreenCat-777/QuickAlpine) (reccomended)
+[QuickAlpine-OG](https://github.com/GreenCat-777/QuickAlpine) (reccomended for chill/gui users)
 
 [QuickAlpine (better)](https://github.com/GreenCat-777/QuickAlpine-better-)
 
 
 # QuickAlpines ALT
-[QuickYAAC](https://github.com/GreenCat-777/QuickAlpineYAAC-ALT-)
+[QuickYAAC ALT](https://github.com/GreenCat-777/QuickAlpineYAAC-ALT-) (shell mostly)
 
 
 
