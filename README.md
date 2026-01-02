@@ -23,3 +23,8 @@ Applications that allow easy installation of desktop linux on kindle
 
 
 # Others ALTS
+
+
+
+# License
+This software is hosted under the UNLICENSE license and no rights are reserved, although I would prefer you give credit to me, thanks in advance.
